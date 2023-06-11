@@ -18,4 +18,6 @@ For create this page, i using tailwindcss and swiper js. Slide of image will aut
 
 **EXAMPLE PAGE**
 <br/>This page telling about Djawatan
-![First Slide about Djawatan](./assets/Naruto-Animation.mp4)
+
+https://github.com/zanjabil2502/Naruto-Character/assets/62334332/cd22c99d-def6-4b17-a454-cfd0cad1cbbd
+
