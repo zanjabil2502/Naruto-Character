@@ -17,8 +17,9 @@ This project created by using React Js Framework and Vite.
 For create this page, i using tailwindcss and swiper js. Slide of image will autoplay
 
 **EXAMPLE PAGE**
-<br/>This page telling about Djawatan
 
-https://github.com/zanjabil2502/Naruto-Character/assets/62334332/47a13834-9d16-4c13-8731-19d0689a6ac0
+https://github.com/zanjabil2502/Naruto-Character/assets/62334332/f653bf89-9376-4a72-ade7-d5010afdf483
+
+
 
 
